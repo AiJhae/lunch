@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Order" max_length="40" name="x_snc_eats_order" text_index="true" type="collection">
-        <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Delivery date" max_length="40" name="delivery_date" type="glide_date_time"/>
-        <element attributes="encode_utf8=false" label="Delivery location" max_length="32" name="delivery_location" reference="cmn_location" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Food" max_length="40" name="food" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="bdcb83a85f220100a9ad2572f2b4773d" label="Customer" max_length="32" name="customer" read_only="true" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery date" mandatory="true" max_length="40" name="delivery_date" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Delivery location" mandatory="true" max_length="32" name="delivery_location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Food" mandatory="true" max_length="400" name="food" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <index name="index">
             <element name="delivery_location"/>
         </index>
