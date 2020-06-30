@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Eats">10b072581bf51810af9011fc2d4bcb77</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Eats Search Context Config">98b072581bf51810af9011fc2d4bcb74</global_search_data>
+        <name>Eats</name>
+        <navigation_type>breadcrumb</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>john</sys_created_by>
+        <sys_created_on>2020-06-30 14:29:57</sys_created_on>
+        <sys_id>18b072581bf51810af9011fc2d4bcb76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eats</sys_name>
+        <sys_package display_value="Eats" source="x_snc_eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_scope>
+        <sys_update_name>sys_aw_master_config_18b072581bf51810af9011fc2d4bcb76</sys_update_name>
+        <sys_updated_by>john</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:29:57</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>eats</workspace_url>
+    </sys_aw_master_config>
+</record_update>

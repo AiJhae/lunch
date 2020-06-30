@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>john</sys_created_by>
+        <sys_created_on>2020-06-30 14:27:48</sys_created_on>
+        <sys_id>fc30fe181bf51810af9011fc2d4bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_eats_order.x_snc_eats.user</sys_name>
+        <sys_package display_value="Eats" source="x_snc_eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_scope>
+        <sys_security_acl display_value="x_snc_eats_order">fc30fe181bf51810af9011fc2d4bcbd1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fc30fe181bf51810af9011fc2d4bcbd4</sys_update_name>
+        <sys_updated_by>john</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:27:48</sys_updated_on>
+        <sys_user_role display_value="x_snc_eats.user" name="x_snc_eats.user">537e2ed41bf51810af9011fc2d4bcb09</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_eats_order</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Order Form Screen">2d80f2581bf51810af9011fc2d4bcb4a</embedded_screen>
+        <item_view display_value="Order List Screen Item View">2180f2581bf51810af9011fc2d4bcb4a</item_view>
+        <name>Order master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>john</sys_created_by>
+        <sys_created_on>2020-06-30 14:29:13</sys_created_on>
+        <sys_id>2180f2581bf51810af9011fc2d4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order master_item</sys_name>
+        <sys_package display_value="Eats" source="x_snc_eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_scope>
+        <sys_update_name>sys_sg_master_item_2180f2581bf51810af9011fc2d4bcb4c</sys_update_name>
+        <sys_updated_by>john</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:29:13</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

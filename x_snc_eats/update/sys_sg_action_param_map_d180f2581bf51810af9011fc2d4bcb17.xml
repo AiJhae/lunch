@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (User)">d980f2581bf51810af9011fc2d4bcb04</button>
+        <item_parameter display_value="User avatar">5180f2581bf51810af9011fc2d4bcb01</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>john</sys_created_by>
+        <sys_created_on>2020-06-30 14:29:12</sys_created_on>
+        <sys_id>d180f2581bf51810af9011fc2d4bcb17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5180f2581bf51810af9011fc2d4bcb01</sys_name>
+        <sys_package display_value="Eats" source="x_snc_eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d180f2581bf51810af9011fc2d4bcb17</sys_update_name>
+        <sys_updated_by>john</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:29:12</sys_updated_on>
+        <ui_parameter display_value="Avatar">1d80f2581bf51810af9011fc2d4bcb05</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

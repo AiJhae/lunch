@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Order)">2d80f2581bf51810af9011fc2d4bcb55</button>
+        <item_parameter display_value="Order food">ad80f2581bf51810af9011fc2d4bcb54</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>john</sys_created_by>
+        <sys_created_on>2020-06-30 14:29:13</sys_created_on>
+        <sys_id>2980f2581bf51810af9011fc2d4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ad80f2581bf51810af9011fc2d4bcb54</sys_name>
+        <sys_package display_value="Eats" source="x_snc_eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_2980f2581bf51810af9011fc2d4bcb58</sys_update_name>
+        <sys_updated_by>john</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:29:13</sys_updated_on>
+        <ui_parameter display_value="Food">2180f2581bf51810af9011fc2d4bcb57</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

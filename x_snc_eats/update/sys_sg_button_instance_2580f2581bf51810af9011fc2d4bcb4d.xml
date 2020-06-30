@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Order)">2180f2581bf51810af9011fc2d4bcb4d</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Order)</name>
+        <order/>
+        <parent>2180f2581bf51810af9011fc2d4bcb4c</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>john</sys_created_by>
+        <sys_created_on>2020-06-30 14:29:13</sys_created_on>
+        <sys_id>2580f2581bf51810af9011fc2d4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Order)</sys_name>
+        <sys_package display_value="Eats" source="x_snc_eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eats">4e5eee941bf51810af9011fc2d4bcbb1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2580f2581bf51810af9011fc2d4bcb4d</sys_update_name>
+        <sys_updated_by>john</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:29:13</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2580f2581bf51810af9011fc2d4bcb4d"/>
+</record_update>
